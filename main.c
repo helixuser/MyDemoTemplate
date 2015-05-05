@@ -8,4 +8,5 @@ void main (void)
   {
     printf ("Hello World ! Iteration %d \n", i);
   }
+  return;
 }
